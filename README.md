@@ -1,2 +1,2 @@
-# camelCase.nvim
-Plugin that lets you move in cameCase.
+# move-in-case.nvim
+Plugin that lets you move in different cases.
